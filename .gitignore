@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/inbox/*
+data/processed/*
+data/*.db
+data/ledger.csv
+!data/inbox/.gitkeep
